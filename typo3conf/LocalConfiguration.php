@@ -60,6 +60,7 @@ return array(
 			'scheduler',
 			'indexed_search',
 			'saltedpasswords',
+			'news'
 		),
 	),
 	'FE' => array(
